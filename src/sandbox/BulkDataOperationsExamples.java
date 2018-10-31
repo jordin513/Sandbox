@@ -42,6 +42,8 @@ import java.util.function.Consumer;
 import java.util.function.Function;
 import java.util.function.Predicate;
 
+//Professor Vanselow 10/10/18
+
 public class BulkDataOperationsExamples {
 
   // (String ...) is an array of parameters of type String, where as String[] is a single parameter. 
