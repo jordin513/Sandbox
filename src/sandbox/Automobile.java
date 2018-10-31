@@ -1,5 +1,7 @@
 package sandbox;
 
+//Professor Vanselow 9/27/18
+//Concrete class Automobile 
 public class Automobile {
 
   private String make;
